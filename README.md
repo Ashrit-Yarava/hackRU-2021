@@ -5,3 +5,7 @@ Project for HackRU 2021.
 
 - ai/: Has the components used to make/store the AI.
 - docs/: Used for the website.
+
+## Data
+
+Derived from https://www.kaggle.com/kmader/food41
